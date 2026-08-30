@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi 👋, I'm Juliano Celli Turra
 
-### A passionate AI, Java and Python developer
+### A passionate AI, Machine Learning and Python developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JulianoTurra&label=Profile%20views&color=0e75b6&style=flat" alt="JulianoTurra" />
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- 🔭 I'm currently working on **Open Finance project**
+- 🔭 I'm currently working on **Google Cloud Associate**
 - 🌱 I'm currently learning **Docker, kubernetes and deep learning**
-- 👯 I'm looking to collaborate on **AI, Python and Java projects**
+- 👯 I'm looking to collaborate on **AI, Python and Cloud projects**
 - 🤝 I'm looking for help with **AI source projects**
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **jcturra@hotmail.com**
