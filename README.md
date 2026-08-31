@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 -->
 # Hi 👋, I'm Juliano Celli Turra
 
-### A passionate AI, Java and Python developer
+### A passionate AI, Machine Learning and Python developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JulianoTurra&label=Profile%20views&color=0e75b6&style=flat" alt="JulianoTurra" />
 </p>
 
-- 🔭 I'm currently working on **Open Finance project**
+- 🔭 I'm currently working on **Google Cloud Associate**
 - 🌱 I'm currently learning **Docker, kubernetes and deep learning**
-- 👯 I'm looking to collaborate on **AI, Python and Java projects**
+- 👯 I'm looking to collaborate on **AI, Python and Cloud projects**
 - 🤝 I'm looking for help with **AI source projects**
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **jcturra@hotmail.com**
@@ -65,13 +65,18 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/JulianoTurra/JulianoTurra/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<h3 align="left">GitHub Analytics:</h3>
+<h3 align="left">GitHub Analytics (Estável):</h3>
 
+<!-- Usando Badges estáticos e Gráfico de Atividade, que são 100% estáveis -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianoTurra&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianoTurra&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" />
+  <img src="https://img.shields.io/github/stars/JulianoTurra?style=for-the-badge&logo=github&color=0e75b6" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/JulianoTurra?style=for-the-badge&logo=github&color=0e75b6" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/commit-activity/y/JulianoTurra?style=for-the-badge&logo=github&color=0e75b6&label=Commits%20Last%20Year" alt="Commits Last Year" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulianoTurra&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
 
 
 
