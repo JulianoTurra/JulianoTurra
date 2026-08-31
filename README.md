@@ -54,28 +54,23 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="left">⚡ Recent Activity:</h3>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<h3 align="left">🐍 Contribution Snake:</h3>
+<h3 align="left">🐍 Contribution Activity:</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JulianoTurra/JulianoTurra/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<h3 align="left">GitHub Analytics (Estável):</h3>
+<h3 align="left">⚡ Recent Activity:</h3>
 
-<!-- Usando Badges estáticos e Gráfico de Atividade, que são 100% estáveis -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<h3 align="left">📊 GitHub Metrics:</h3>
+
 <p align="center">
   <img src="https://img.shields.io/github/stars/JulianoTurra?style=for-the-badge&logo=github&color=0e75b6" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/JulianoTurra?style=for-the-badge&logo=github&color=0e75b6" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/commit-activity/y/JulianoTurra?style=for-the-badge&logo=github&color=0e75b6&label=Commits%20Last%20Year" alt="Commits Last Year" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulianoTurra&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 
