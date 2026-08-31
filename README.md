@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 
 ### A passionate AI, Machine Learning and Python developer
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JulianoTurra&label=Profile%20views&color=0e75b6&style=flat" alt="JulianoTurra" />
-</p>
-
 - 🔭 I'm currently working on **Google Cloud Associate**
 - 🌱 I'm currently learning **Docker, kubernetes and deep learning**
 - 👯 I'm looking to collaborate on **AI, Python and Cloud projects**
@@ -68,9 +64,8 @@ Here are some ideas to get you started:
 <h3 align="left">📊 GitHub Metrics:</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/JulianoTurra?style=for-the-badge&logo=github&color=0e75b6" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/JulianoTurra?style=for-the-badge&logo=github&color=0e75b6" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/commit-activity/y/JulianoTurra?style=for-the-badge&logo=github&color=0e75b6&label=Commits%20Last%20Year" alt="Commits Last Year" />
+  <img src="https://komarev.com/ghpvc/?username=JulianoTurra&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
