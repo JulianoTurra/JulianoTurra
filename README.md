@@ -79,7 +79,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td align="center" colspan="2" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoTurra&theme=tokyonight" alt="GitHub Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=JulianoTurra&theme=tokyonight" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
