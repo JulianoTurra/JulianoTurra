@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+  </a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="40" height="40"/>
   </a>
@@ -45,8 +48,14 @@ Here are some ideas to get you started:
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="40" height="40"/>
   </a>
 </p>
 
