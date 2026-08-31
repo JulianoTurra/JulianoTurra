@@ -14,21 +14,15 @@ Here are some ideas to get you started:
 -->
 # Hi 👋, I'm Juliano Celli Turra
 
-### A passionate AI, Machine Learning and Python developer
+### A passionate AI, Java and Python developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JulianoTurra&label=Profile%20views&color=0e75b6&style=flat" alt="JulianoTurra" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JulianoTurra&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="JulianoTurra Profile Trophy" />
-  </a>
-</p>
-
-- 🔭 I'm currently working on **Google Cloud Associate**
+- 🔭 I'm currently working on **Open Finance project**
 - 🌱 I'm currently learning **Docker, kubernetes and deep learning**
-- 👯 I'm looking to collaborate on **AI, Python and Cloud projects**
+- 👯 I'm looking to collaborate on **AI, Python and Java projects**
 - 🤝 I'm looking for help with **AI source projects**
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **jcturra@hotmail.com**
@@ -65,25 +59,22 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+<h3 align="left">🐍 Contribution Snake:</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JulianoTurra/JulianoTurra/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <h3 align="left">GitHub Analytics:</h3>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=JulianoTurra&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="165" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianoTurra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" height="165" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" valign="middle">
-        <img src="https://streak-stats.demolab.com/?user=JulianoTurra&theme=tokyonight" alt="GitHub Streak Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JulianoTurra&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianoTurra&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" />
+</p>
+
+
+
+
 
 
 
