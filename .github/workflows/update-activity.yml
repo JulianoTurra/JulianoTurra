@@ -2,18 +2,19 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Roda automaticamente a cada 6 horas
-  workflow_dispatch: # Permite rodar manualmente a qualquer momento
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Permissão necessária para o robô editar o README
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 5
